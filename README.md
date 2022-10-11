@@ -1,5 +1,3 @@
-Bio
-
 URL: https://yosrybadr.my.canva.site/
 
 Graduate from computer science ain shams university 
