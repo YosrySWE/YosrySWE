@@ -18,8 +18,8 @@ to indeed write an efficient code.
 
 I have a 6 month micro master certificate in software testing and verification from Maryland university.
 
-<img align="right" alt="GIF" src="https://github.com/YosrySWE/YosrySWE/blob/master/moving-computer-gif-11.gif?raw=true" width="408" height="318" />
-<!-- <img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/main/coding.gif?raw=true" width="408" height="318" /> -->
+<img align="left" alt="GIF" src="https://github.com/YosrySWE/YosrySWE/blob/master/moving-computer-gif-11.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 
